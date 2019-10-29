@@ -23,4 +23,6 @@ src
   |___Models
   |___Services
 ```
-
+## Quick start
+* The fist step: `npm i` for install all package was config
+* The second step: `npm start` the project will start with node module
