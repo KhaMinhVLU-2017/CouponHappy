@@ -1,5 +1,5 @@
 
 
-const UriMongoDB = 'mongodb+srv://coupon:coupon2019@couponcluster-cxqoe.azure.mongodb.net/Coupon?retryWrites=true&w=majority'
+const UriMongoDB = 'mongodb://coupon:Coupon2020@ds039088.mlab.com:39088/couponhappy'
 
 module.exports = {UriMongoDB}
